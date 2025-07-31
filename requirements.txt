@@ -6,3 +6,7 @@ openai
 streamlit
 python-dotenv
 langchain-openai
+PyPDF2
+faiss-cpu
+sentence-transformers
+langchain-community
